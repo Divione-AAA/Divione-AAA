@@ -1,16 +1,22 @@
-<!--
-**Divione-AAA/Divione-AAA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h1 align="center">Hi, I'm Hector Aguero <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=I+love+competitive+programming...&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;Cat+lover,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+</p>
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+
+Creative and forward-thinking Computer Science student at UCLV, interested in artificial intelligence, full-stack, mobile, and desktop development. Passionate about leveraging cutting-edge technologies to solve real-world problems. Enthusiastic participant in competitive programming, always seeking new challenges to hone problem-solving skills and foster innovation.
+* **I'm interested in artificial intelligence 🤖, full-stack 🌐, mobile 📱, and desktop development 🖥️, as well as competitive programming 🏆**
+- 🌱 I’m currently learning ...
+  - Java
+  - React js
+- I’m interested in learning everything about the world of computing 🖥️💻📱.
+- I enjoy listening to music 🎵, exploring the arts in general 🎨, gaming 🎮, and going to the gym 🏋️‍♂️
+- 📫You can reach me at my email address: <a href="HectorDavidAgueroAA@outlook.com">HectorDavidAgueroAA@outlook.com</a>
+
+__Check out my GitHub repository:__
+
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
