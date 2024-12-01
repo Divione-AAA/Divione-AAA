@@ -8,15 +8,21 @@
 
 Creative and forward-thinking Computer Science student at UCLV, interested in artificial intelligence, full-stack, mobile, and desktop development. Passionate about leveraging cutting-edge technologies to solve real-world problems. Enthusiastic participant in competitive programming, always seeking new challenges to hone problem-solving skills and foster innovation.
 * **I'm interested in artificial intelligence 🤖, full-stack 🌐, mobile 📱, and desktop development 🖥️, as well as competitive programming 🏆**
-- 🌱 I’m currently learning ...
+- 🌱📚💡Deepening my knowledge in...
   - Java
   - React js
+  - C++
+  - Next JS
+  - C#
+  - CSS
+  - Dart
+  - Flutter
+  - HTML
+  - Tailwind
+  - SQL
 - I’m interested in learning everything about the world of computing 🖥️💻📱.
 - I enjoy listening to music 🎵, exploring the arts in general 🎨, gaming 🎮, and going to the gym 🏋️‍♂️
 - 📫You can reach me at my email address: <a href="HectorDavidAgueroAA@outlook.com">HectorDavidAgueroAA@outlook.com</a>
 
 __Check out my GitHub repository:__
 
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
