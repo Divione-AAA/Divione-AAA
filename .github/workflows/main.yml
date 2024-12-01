@@ -1,7 +1,7 @@
 name: Generate Snake
 
 on:
-  schedule: # Ejecutar la acción cada día a medianoche
+  schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
 
@@ -11,7 +11,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Generate Snake Animation
-        uses: Platane/snk@v2
+        uses: Platane/snk@v3
         with:
           github_user_name: Divione-AAA
           svg_out_path: dist/github-contribution-grid-snake.svg
@@ -20,3 +20,4 @@ jobs:
         with:
           name: snake-animation
           path: dist/github-contribution-grid-snake.svg
+
