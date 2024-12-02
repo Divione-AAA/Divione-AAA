@@ -6,7 +6,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-Creative and forward-thinking Computer Science student at UCLV, interested in artificial intelligence, full-stack, mobile, and desktop development. Passionate about leveraging cutting-edge technologies to solve real-world problems. Enthusiastic participant in competitive programming, always seeking new challenges to hone problem-solving skills and foster innovation.
+Creative and forward-thinking 🧠 Computer Science student 💻 at UCLV, interested in 🤖 artificial intelligence, 🌐 full-stack, 📱 mobile, and 🖥 desktop development. Passionate about leveraging cutting-edge technologies 🚀 to solve real-world problems 🌍. Enthusiastic participant in competitive programming 🏆, always seeking new challenges to hone problem-solving skills 🧩 and foster innovation 💡.
 * **I'm interested in artificial intelligence 🤖, full-stack 🌐, mobile 📱, and desktop development 🖥️, as well as competitive programming 🏆**
 - 🌱📚💡Deepening my knowledge in...
   - Java
